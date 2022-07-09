@@ -1,0 +1,44 @@
+[
+  {
+    "age": 35,
+    "email": "doctorofsurgery@shealthcare.com",
+    "name": "Bác sỹ khoa ngoại",
+    "token": "cwroSbPeRTaoxxXtuscQpQ:APA91bH_w0X2gSB9h7B6GP2alaOdLaFG0edJSRHWs28rljU7SXBExSRH6iiHnAPX7MxgObxr1uRGhcEBUFobFFnL6wU9KevRLPmW4GjCHTGeqGOU6sC-vFUs4j3c9qU7wFBr12a8Az0K",
+    "type": 1
+  },
+  {
+    "age": 40,
+    "email": "internalmedicinedoctor@shealthcare.com",
+    "name": "Bác sỹ khoa nội",
+    "token": "",
+    "type": 1
+  },
+  {
+    "age": 44,
+    "email": "ophthalmologist@shealthcare.com",
+    "name": "Bác sỹ mắt",
+    "token": "",
+    "type": 1
+  },
+  {
+    "age": 55,
+    "email": "pediatrician@shealthcare.com",
+    "name": "Bác sỹ khoa nhi",
+    "token": "",
+    "type": 1
+  },
+  {
+    "age": 50,
+    "email": "psychodoctor@shealthcare.com",
+    "name": "Bác sỹ tâm lý",
+    "token": "",
+    "type": 1
+  },
+  {
+    "age": 50,
+    "email": "throatdoctor@shealthcare.com",
+    "name": "Bác sỹ tai mũi họng",
+    "token": "",
+    "type": 1
+  }
+]

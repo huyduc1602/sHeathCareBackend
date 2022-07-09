@@ -1,0 +1,6 @@
+ val json = "${MyApplication.instance.filesDir}/json/drug.json"
+                    File(json).printWriter().use { out ->
+                        val gson = Gson()
+                        val jsonString = gson.toJson(listDrug)
+                        out.println(jsonString)
+                    }

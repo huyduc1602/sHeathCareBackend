@@ -1,0 +1,194 @@
+[
+  {
+    "address": "Số 88 Hào Nam, Đống Đa, Hà Nội\n\n",
+    "city": "Hà Nội",
+    "imageCompany": "",
+    "location": {
+      "latitude": 21.024681475648237,
+      "longitude": 105.83032406046642
+    },
+    "name": "Nhà thuốc Số 88 Hào Nam\n",
+    "phoneNumber": "02435130834",
+    "type": 1
+  },
+  {
+    "address": "1 Vũ Thạnh, Cát Linh, Đống Đa, Hà Nội",
+    "city": "Hà Nội",
+    "imageCompany": "https://poipic2.coccoc.com/1000x750/poi/previews/20180928/26675-db7d82b980c71a8706a84383f30f52bd.jpg",
+    "location": {
+      "latitude": 21.028335354617784,
+      "longitude": 105.82524119900135
+    },
+    "name": "Nhà thuốc Việt Đức",
+    "phoneNumber": "024235165747",
+    "type": 1
+  },
+  {
+    "address": "37D, Văn Miếu, Phường Văn Miếu, Quận Đống Đa, Hà Nội",
+    "city": "Hà Nội",
+    "imageCompany": "http://cdn.diachiso.vn/images/600x400/2009/3/14/nha-thuoc-37d-van-mieu.jpg we",
+    "location": {
+      "latitude": 21.029465321883226,
+      "longitude": 105.83652199120235
+    },
+    "name": "Nhà thuốc 37D Văn Miếu\n",
+    "phoneNumber": "(84-4) 37 473 164",
+    "type": 1
+  },
+  {
+    "address": "166 Ngõ chợ Khâm Thiên , Đống Đa, Hà Nội\n\n",
+    "city": "Hà Nội",
+    "imageCompany": "https://poipic6.coccoc.com/450x230/poi/previews/20170919/18374-05e8ddee36a2805098e17684264c3fc9.jpg",
+    "location": {
+      "latitude": 21.016671243006062,
+      "longitude": 105.83822848669612
+    },
+    "name": "Nhà thuốc Hiển Dương\n",
+    "phoneNumber": "(84-24) 35 181 516",
+    "type": 1
+  },
+  {
+    "address": "14 Hồ Đắc Di, Đống Đa, Hà Nội\n\n",
+    "city": "Hà Nội",
+    "imageCompany": "data:image/jpeg;base64,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",
+    "location": {
+      "latitude": 21.013225982577595,
+      "longitude": 105.82868212065604
+    },
+    "name": "  Nhà thuốc số 14 Hồ Đắc Di\n\n",
+    "phoneNumber": " (84-4) 35 332 489",
+    "type": 1
+  },
+  {
+    "address": "Số 165 Chùa Láng, Đống Đa, Hà Nội.\n\n",
+    "city": "Hà Nội",
+    "imageCompany": "http://nguoihanoi.com.vn/Images/nguoihanoi%20(4)(3).jpg",
+    "location": {
+      "latitude": 21.023254279532622,
+      "longitude": 105.80182860461615
+    },
+    "name": "Nhà thuốc Ngọc Vân",
+    "phoneNumber": "0912667281",
+    "type": 1
+  },
+  {
+    "address": "164 Hào Nam, Ô Chợ Dừa, Đống Đa, Hà Nội\n",
+    "city": "Hà Nộ",
+    "imageCompany": "https://lh5.googleusercontent.com/p/AF1QipPiY-LU8mYYzjaeEYLXm35uTWlpHtIwxhMaxX0X\u003dw408-h544-k-no",
+    "location": {
+      "latitude": 21.026227290020056,
+      "longitude": 105.82792626789542
+    },
+    "name": "Nhà thuốc Hương Giang",
+    "phoneNumber": "+842435114065",
+    "type": 1
+  },
+  {
+    "address": "116-E2 Phương Mai, Phương Mai, Đống Đa, Hà Nội",
+    "city": "Hà Nội",
+    "imageCompany": "https://timdung.vn/sites/default/files/styles/220x165/public/2015-11-26_190418.246626.jpeg?itok\u003dXEiFpyhG",
+    "location": {
+      "latitude": 21.006842230033232,
+      "longitude": 105.84105188485653
+    },
+    "name": "Nhà thuốc y dược Bình Minh",
+    "phoneNumber": "0243 5765 552",
+    "type": 1
+  },
+  {
+    "address": "1D ngõ L5 Thái Thịnh, Láng Hạ, Đống Đa, Hà Nội\n",
+    "city": "Hà Nội",
+    "imageCompany": "https://dwbxi9io9o7ce.cloudfront.net/images/2015-11-25_231748.3696120000.jpeg",
+    "location": {
+      "latitude": 21.014264505606718,
+      "longitude": 105.81538083503037
+    },
+    "name": "Nhà thuốc Việt Care",
+    "phoneNumber": "0986542981",
+    "type": 1
+  },
+  {
+    "address": "Kiot 1-2 chợ A12 Khương Thượng, Trung Tự, Đống Đa, Hà Nội\n",
+    "city": "Hà Nội",
+    "imageCompany": "",
+    "location": {
+      "latitude": 21.006568314816604,
+      "longitude": 105.83127354222438
+    },
+    "name": "Nhà thuốc Tân Ninh",
+    "phoneNumber": "02435742367",
+    "type": 1
+  },
+  {
+    "address": "6 Vũ Thạnh, Ô Chợ Dừa, Đống Đa, Hà Nội",
+    "city": "Hà Nội",
+    "imageCompany": "https://timdung.vn/sites/default/files/2015-11-25_224651.987007.jpeg",
+    "location": {
+      "latitude": 21.027778042794218,
+      "longitude": 105.82570292038113
+    },
+    "name": "Nhà thuốc Minh Anh",
+    "phoneNumber": "0365256847",
+    "type": 1
+  },
+  {
+    "address": "142 ngõ chợ Khâm Thiên, Khâm Thiên, Đống Đa, Hà Nội ",
+    "city": "Hà Nội",
+    "imageCompany": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcTwLAmoVuZ6m7AXcWckYq7-sxY0n1PxhG-kIam42mpZYyy3YnCW5iUQragj0c4uePsqRzw\u0026usqp\u003dCAU",
+    "location": {
+      "latitude": 21.017208008206687,
+      "longitude": 105.83801455845733
+    },
+    "name": "Nhà thuốc Phúc Thịnh",
+    "phoneNumber": "0975696283",
+    "type": 1
+  },
+  {
+    "address": "175 Khương Thượng,  Quận Đống Đa, Hà Nội\n",
+    "city": "Hà Nội",
+    "imageCompany": "https://images.foody.vn/res/g12/119868/prof/s576x330/foody-mobile-nt-htrieu-jpg-512-635592435947593364.jpg",
+    "location": {
+      "latitude": 21.003278842275982,
+      "longitude": 105.82481200733999
+    },
+    "name": "Nhà Thuốc Hải Triều",
+    "phoneNumber": "(04)8530015\n",
+    "type": 1
+  },
+  {
+    "address": "88, Pháo Đài Láng, P. Láng Thượng, Q. Đống Đa, Tp. Hà Nội\n",
+    "city": "Hà Nội",
+    "imageCompany": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcTX7NHJz1lXmvLkVh3fGwLMLL4bNeTQL4vm9TTSlDZ0tTjuafE7aISqHnTpLnoQYuQ05zk\u0026usqp\u003dCAU",
+    "location": {
+      "latitude": 21.02033366740484,
+      "longitude": 105.80431709543929
+    },
+    "name": "Nhà thuốc Trường Giang",
+    "phoneNumber": "(84-24) 38 357 158\n",
+    "type": 1
+  },
+  {
+    "address": "510 Đường Láng",
+    "city": "Hà Nội",
+    "imageCompany": "https://lh5.googleusercontent.com/p/AF1QipMH4NqiTN7yBczsGsLejVMv8i4MX5qKgjtrEdn9\u003dw408-h306-k-no",
+    "location": {
+      "latitude": 21.01120626521147,
+      "longitude": 105.81264780511061
+    },
+    "name": "Nhà Thuốc Thái Nghĩa",
+    "phoneNumber": "+842438560606",
+    "type": 1
+  },
+  {
+    "address": "95 Láng Hạ, Đống Đa, Hà Nội",
+    "city": "Hà Nội",
+    "imageCompany": "https://www.google.gg/maps/uv?pb\u003d!1s0x3135ab63042522cf:0xbb929cddb7f387df!3m1!7e115!4shttps://lh5.googleusercontent.com/p/AF1QipOne4aJ71YkUgb3Wg_ALS9nJPtH-2MsS4-ZCWgG%3Dw260-h175-n-k-no!5zUXXhuqd5IEjDoCBUw6J5ICBT4buRIDk1IEzDoW5nIEjhuqEg4oCTIMSQ4buRbmcgxJBhIOKAkyBITiAtIFTDrG0gdHLDqm4gR29vZ2xl!15zQ2dJZ0FRPT0\u0026imagekey\u003d!1e10!2sAF1QipOne4aJ71YkUgb3Wg_ALS9nJPtH-2MsS4-ZCWgG\u0026hl\u003dvi",
+    "location": {
+      "latitude": 21.013966607073122,
+      "longitude": 105.81438514486341
+    },
+    "name": "Quầy Hà Tây",
+    "phoneNumber": "024 3514 7166",
+    "type": 1
+  }
+]

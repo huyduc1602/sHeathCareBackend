@@ -1,0 +1,110 @@
+[
+  {
+    "address": "127 Thái Thịnh, Thịnh Quang, Đống Đa, Hà Nội",
+    "city": "Hà Nội",
+    "imageCompany": "https://encrypted-tbn0.gstatic.com/images?q\u003dtbn:ANd9GcQAbaFn9qE5t30kfRJD_mxP9xh9TNPYhIGNng\u0026usqp\u003dCAU",
+    "location": {
+      "latitude": 21.011754733519094,
+      "longitude": 105.81749787097591
+    },
+    "name": "Phòng Khám Thái Thịnh",
+    "phoneNumber": "02469578452",
+    "type": 0
+  },
+  {
+    "address": "152, Xã Đàn, Phương Liên, Đống Đa, Hà Nội",
+    "city": "Hà Nội",
+    "imageCompany": "https://toplist.vn/images/800px/phong-kham-da-khoa-quoc-te-ha-noi-403342.jpg",
+    "location": {
+      "latitude": 21.010227550369592,
+      "longitude": 105.83823789787533
+    },
+    "name": "Phòng khám Đa khoa Quốc tế Hà Nội\n",
+    "phoneNumber": " 024.3678.8888",
+    "type": 0
+  },
+  {
+    "address": "số 73, Trần Duy Hưng, Cầu Giấy, Hà Nội",
+    "city": "Phòng khám đa khoa Thiện Hòa",
+    "imageCompany": "https://toplist.vn/images/800px/phong-kham-da-khoa-thien-hoa-81238.jpg",
+    "location": {
+      "latitude": 21.01121621826263,
+      "longitude": 105.79988149787539
+    },
+    "name": "Phòng khám đa khoa Thiện Hòa",
+    "phoneNumber": "024.6673.9999",
+    "type": 0
+  },
+  {
+    "address": "số 709 Giải Phóng, Hoàng Mai, Hà Nội",
+    "city": "Hà Nội",
+    "imageCompany": "https://toplist.vn/images/800px/phong-kham-da-khoa-giai-phong-403361.jpg",
+    "location": {
+      "latitude": 20.988430192261433,
+      "longitude": 105.84144286904541
+    },
+    "name": "Phòng khám đa khoa Giải Phóng",
+    "phoneNumber": "039 797 2666",
+    "type": 0
+  },
+  {
+    "address": "59 Khương Trung, Thanh Xuân, Hà Nội",
+    "city": "Hà Nội",
+    "imageCompany": "https://toplist.vn/images/800px/phong-kham-da-khoa-bao-anh-403306.jpg",
+    "location": {
+      "latitude": 20.999902527153807,
+      "longitude": 105.81862385370268
+    },
+    "name": "Phòng khám đa khoa Bảo Anh",
+    "phoneNumber": "0243 828 8288",
+    "type": 0
+  },
+  {
+    "address": "86-88 Nguyễn Lương Bằng, Quận Đống Đa, Hà Nội",
+    "city": "Phòng khám da khoa Medelab\n",
+    "imageCompany": "https://toplist.vn/images/800px/phong-kham-da-khoa-medelab-81240.jpg",
+    "location": {
+      "latitude": 21.017123333060294,
+      "longitude": 105.82878614021008
+    },
+    "name": "Phòng khám da khoa Medelab\n",
+    "phoneNumber": "090 668 64 99",
+    "type": 0
+  },
+  {
+    "address": "Số 61, Đường Phương Mai, Đống Đa, Hà Nội",
+    "city": "Phòng khám đa khoa Đông Đô\n",
+    "imageCompany": "https://toplist.vn/images/800px/phong-kham-da-khoa-dong-do-510874.jpg",
+    "location": {
+      "latitude": 20.998423296538334,
+      "longitude": 105.83936474020983
+    },
+    "name": "Phòng khám đa khoa Đông Đô\n",
+    "phoneNumber": "(04) 3576 3699",
+    "type": 0
+  },
+  {
+    "address": "số 11 Thái Hà, Đống Đa, Hà Nội.",
+    "city": "Hà Nội",
+    "imageCompany": "https://toplist.vn/images/800px/phong-kham-da-khoa-thai-ha-510688.jpg",
+    "location": {
+      "latitude": 21.01584598534071,
+      "longitude": 105.8156477740572
+    },
+    "name": "Phòng khám đa khoa Thái Hà",
+    "phoneNumber": "036 674 4488",
+    "type": 0
+  },
+  {
+    "address": "Tầng 1, tòa R2, Khu Đô thị Royal City 72A Nguyễn Trãi, Thanh Xuân, Hà Nội",
+    "city": "Hà Nội",
+    "imageCompany": "https://toplist.vn/images/800px/phong-kham-da-khoa-quoc-te-vinmec-81266.jpg",
+    "location": {
+      "latitude": 21.00445599318565,
+      "longitude": 105.81544316904564
+    },
+    "name": "Phòng khám đa khoa quốc tế Vinmec",
+    "phoneNumber": "024 3975 6887",
+    "type": 0
+  }
+]
